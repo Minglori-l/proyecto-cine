@@ -51,3 +51,8 @@ console.log('Processing complete.');
 // Utility function
 // FIX: Critical security path
 console.log('App ready.');
+
+function processData(input) {
+  return input.trim();
+}
+
