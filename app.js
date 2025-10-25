@@ -56,3 +56,4 @@ function processData(input) {
   return input.trim();
 }
 
+console.log('Processing complete.');
