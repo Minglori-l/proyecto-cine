@@ -47,3 +47,5 @@ function processData(input) {
 }
 
 console.log('Processing complete.');
+
+// Utility function
