@@ -49,3 +49,4 @@ function processData(input) {
 console.log('Processing complete.');
 
 // Utility function
+// FIX: Critical security path
