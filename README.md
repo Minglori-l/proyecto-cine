@@ -634,3 +634,4 @@ Este proyecto está licenciado bajo la Licencia MIT - consulte el archivo [LICEN
 [⬆️ Volver al Inicio](#-sistema-de-gestión-de-cines---cine-glorimar)
 
 </div>
+## Puntuación
