@@ -190,7 +190,7 @@ proyecto-cine-glorimar/
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/Salvaberticci/proyecto-cine.git
+   [git clone https://github.com/Minglori-l/proyecto-cine.git]
    cd proyecto-cine-glorimar
    ```
 
